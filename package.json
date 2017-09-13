@@ -1,0 +1,24 @@
+{
+  "name": "testing-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkwaite/testing-react.git"
+  },
+  "author": "Clark Waite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarkwaite/testing-react/issues"
+  },
+  "homepage": "https://github.com/clarkwaite/testing-react#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-open": "^1.0.0"
+  }
+}
